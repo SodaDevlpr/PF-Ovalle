@@ -1,0 +1,72 @@
+[
+    {
+        "id": "cerveza-1",
+        "titulo": "Cerveza cuello negro Pale Ale 5.8° x12un",
+        "imagen": "https://beerkings.cl/wp-content/uploads/2021/06/cuellonegroambarunidad-300x300.png",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cerveza"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "cerveza-2",
+        "titulo": "Cerveza cuello negro Stout 8° x12un",
+        "imagen": "https://beerkings.cl/wp-content/uploads/2021/06/cuellonegrostoutunidad-300x300.png",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cerveza"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "cerveza-3",
+        "titulo": "Cerveza cuello negro Pale Ale 5.8° x24un",
+        "imagen": "https://www.cuellonegro.cl/wp-content/uploads/2017/07/24a-300x300.png",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cerveza"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "cerveza-4",
+        "titulo": "Cerveza cuello negro Stout 8° x24un",
+        "imagen": "https://www.cuellonegro.cl/wp-content/uploads/2017/08/24s-300x300.png",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cerveza"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "vasos-1",
+        "titulo": "Shopero cuello negro 500cc",
+        "imagen": "https://beerkings.cl/wp-content/uploads/2021/06/shoperocuellonegro.png",
+        "categoria": {
+            "nombre": "Tienda",
+            "id": "tienda"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "vasos-2",
+        "titulo": "Jockey cuello negro",
+        "imagen": "https://cervezasdelsur.cl/cdn/shop/products/CuelloNegroSnapBack_1024x1024.png?v=1654635016",
+        "categoria": {
+            "nombre": "Tienda",
+            "id": "tienda"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "vasos-3",
+        "titulo": "Vaso cuello negro 500cc",
+        "imagen": "https://puntogrowler.cl/wp-content/uploads/Vaso-Nonic-Cuello-Negro-430x430.png",
+        "categoria": {
+            "nombre": "Tienda",
+            "id": "tienda"
+        },
+        "precio": 10000
+    }
+]
