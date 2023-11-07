@@ -2,7 +2,7 @@
     {
         "id": "cerveza-1",
         "titulo": "Cerveza cuello negro Pale Ale 5.8° x12un",
-        "imagen": "https://beerkings.cl/wp-content/uploads/2021/06/cuellonegroambarunidad-300x300.png",
+        "imagen": "https://kingz.cl/cdn/shop/files/23.png?v=1691639562&width=600",
         "categoria": {
             "nombre": "Cervezas",
             "id": "cerveza"
@@ -12,7 +12,7 @@
     {
         "id": "cerveza-2",
         "titulo": "Cerveza cuello negro Stout 8° x12un",
-        "imagen": "https://beerkings.cl/wp-content/uploads/2021/06/cuellonegrostoutunidad-300x300.png",
+        "imagen": "https://kingz.cl/cdn/shop/files/24.png?v=1691639579&width=600",
         "categoria": {
             "nombre": "Cervezas",
             "id": "cerveza"
@@ -22,7 +22,7 @@
     {
         "id": "cerveza-3",
         "titulo": "Cerveza cuello negro Pale Ale 5.8° x24un",
-        "imagen": "https://www.cuellonegro.cl/wp-content/uploads/2017/07/24a-300x300.png",
+        "imagen": "https://www.cuellonegro.cl/otras-regiones/wp-content/uploads/sites/2/2023/08/Ambar-x24.png",
         "categoria": {
             "nombre": "Cervezas",
             "id": "cerveza"
@@ -32,7 +32,7 @@
     {
         "id": "cerveza-4",
         "titulo": "Cerveza cuello negro Stout 8° x24un",
-        "imagen": "https://www.cuellonegro.cl/wp-content/uploads/2017/08/24s-300x300.png",
+        "imagen": "https://www.cuellonegro.cl/otras-regiones/wp-content/uploads/sites/2/2023/08/Stout-x24.png",
         "categoria": {
             "nombre": "Cervezas",
             "id": "cerveza"
@@ -42,7 +42,7 @@
     {
         "id": "vasos-1",
         "titulo": "Shopero cuello negro 500cc",
-        "imagen": "https://beerkings.cl/wp-content/uploads/2021/06/shoperocuellonegro.png",
+        "imagen": "https://kingz.cl/cdn/shop/files/4019.png?v=1691881070&width=600",
         "categoria": {
             "nombre": "Tienda",
             "id": "tienda"
